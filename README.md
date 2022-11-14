@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=massiddamt&style=plastic)
 ### Hi there, I'm Matteo 👋
 
-I'm a bioinformatician based in Cagliari, (Italy). 
+I'm a bioinformatician based in Sardinia, (Italy). 
 
-I am currently working at CRS4 ([Center for Advanced Studies, Research and Development in Sardinia](https://www.crs4.it)) in the Next Generation Sequencing Core Program.
-Here I am responsible for NGS Data Analysis and bioinformatic pipelines development and maintenance.
+I am currently working at the Department of Medical, Surgical and Experimental Sciences, University of Sassari.
 
-During these years, we have created an open-source collection of Snakemake-based workflows, [solida-core](https://github.com/solida-core).
+Previously I worked at the Center for Advanced Studies, Research and Development in Sardinia, where we have created an open-source collection of Snakemake-based workflows, [solida-core](https://github.com/solida-core).
+
 
 <!--
 **massiddamt/massiddamt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
